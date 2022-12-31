@@ -21,9 +21,6 @@ Bitly API
 Bitlinks
 Bitlinks are shortened links. They could begin with the bit.ly domain or your own custom branded short domain (BSD).
 """
-
-pip install requests
-
 import requests
 username="o_4sdqs7nvtd"
 password="Giant@24"

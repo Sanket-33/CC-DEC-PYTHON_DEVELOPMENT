@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import filedialog
 import pygame.mixer as mixer     
 import os
-
+#Music player
 mixer.init()
 
 def play_song(song_name: StringVar, songs_list: Listbox, status: StringVar):
